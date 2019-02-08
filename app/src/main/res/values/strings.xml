@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SD_Assignment01</string>
+    <string name="InfoTextView">STUDENT INFO</string>
+    <string name="NameEditText">Enter your name</string>
+    <string name="IDEditText">Enter your ID</string>
+    <string name="GenderTextView">Gender</string>
+    <string name="MaleTextView">Male</string>
+    <string name="FemaleTextView">Female</string>
+    <string name="StudentTextView">Current Student</string>
+    <string name="YesTextView">YES</string>
+    <string name="NoTextView">NO</string>
+    <string name="LoginButton">LOGIN</string>
+</resources>
